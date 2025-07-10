@@ -19,6 +19,13 @@
       "available_tags": [
         "development"
       ]
+    },
+    {
+      "version": "1.16.x",
+      "image": "n3ur0515/kasm-desktop-ubuntu:development",
+      "available_tags": [
+        "development"
+      ]
     }
   ]
 }
